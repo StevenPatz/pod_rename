@@ -1,1 +1,3 @@
-A simple script to rename some annoyingly long filenames I get from some of my podcasts feeds.
+A small ( to start ) script to rename some
+annoyingly long filenames.  Files that I 
+download as a part of my podcast library.
